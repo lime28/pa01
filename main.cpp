@@ -77,12 +77,12 @@ int main(int argv, char **argc) {
 
     playGame(alice, bob);
 
-    cout << "\nAlice's Cards:\n";
+    cout << "\nAlice's cards:\n";
     for (auto& card : alice) {
         cout << card << endl;
     }
 
-    cout << "\nBob's Cards:\n";
+    cout << "\nBob's cards:\n";
     for (auto& card : bob) {
         cout << card << endl;
     }
