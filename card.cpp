@@ -1,5 +1,5 @@
 // card.cpp
-// Author: Your name
+// Authors: Liam Habiby and Kaden Warner
 // Implementation of the classes defined in card.h
 #include <string>
 #include <vector>

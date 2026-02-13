@@ -1,3 +1,4 @@
+// Authors: Liam Habiby and Kaden Warner
 #include "card.h"
 #include "card_list.h"
 
@@ -317,7 +318,5 @@ int main() {
         return 1;
     }
 
-    // Memory-management check requested by the assignment can be run with:
-    // valgrind --leak-check=full ./tests
     return 0;
 }

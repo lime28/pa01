@@ -1,5 +1,5 @@
 // card_list.cpp
-// Author: Your name
+// Authors: Liam Habiby and Kaden Warner
 // Implementation of the classes defined in card_list.h
 //
 #include "card_list.h"

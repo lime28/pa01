@@ -1,5 +1,6 @@
 // This file should implement the game using the std::set container class
 // Do not include card_list.h in this file
+// // Authors: Liam Habiby and Kaden Warner
 #include "card.h"
 #include <fstream>
 #include <iostream>
