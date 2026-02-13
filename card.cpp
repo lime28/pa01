@@ -1,8 +1,7 @@
 // card.cpp
-// Authors: Liam Habiby and Kaden Warner
+// Authors: Liam Habiby (A4W6417) and Kaden Warner (A2W9Y75)
 // Implementation of the classes defined in card.h
 #include <string>
-#include <vector>
 #include <iostream>
 #include "card.h"
 using namespace std;

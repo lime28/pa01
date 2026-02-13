@@ -1,4 +1,4 @@
-// Authors: Liam Habiby and Kaden Warner
+// Authors: Liam Habiby (A4W6417) and Kaden Warner (A2W9Y75)
 #include "card.h"
 #include "card_list.h"
 

@@ -1,6 +1,6 @@
 // This file should implement the game using a custom implementation of a BST (based on your earlier
 // BST implementation)
-// Authors: Liam Habiby and Kaden Warner
+// Authors: Liam Habiby (A4W6417) and Kaden Warner (A2W9Y75)
 #include "card.h"
 #include "card_list.h"
 #include <fstream>

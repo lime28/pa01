@@ -1,5 +1,5 @@
 // card.h
-// Authors: Liam Habiby and Kaden Warner
+// Authors: Liam Habiby (A4W6417) and Kaden Warner (A2W9Y75)
 // All class declarations related to defining a single card go here
 #include <string>
 #include <vector>
